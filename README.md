@@ -9,7 +9,7 @@
 ## 🧠 About Me  
 - 🎓 ECE undergraduate exploring **Software Development & Systems**
 - 💻 Currently building **full-stack projects (MERN)**
-- ⚡ Active on **Codeforces** (~1150 rating, improving daily)
+- ⚡ Active on **Codeforces** (~1350 rating, improving daily)
 - 📈 Goal: Become **Expert on Codeforces** & crack top tech internships
 - 🔍 Interested in **Backend, System Design & Real-time systems**
 
